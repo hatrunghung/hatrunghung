@@ -23,7 +23,7 @@ You can call me:
 
 ### Bachelor's Degree
 
-<img src="https://img.shields.io/badge/%40-LTU-%231f73b7"/> <img src="https://img.shields.io/badge/major-CSE-%231f73b7" /> <img src="https://img.shields.io/badge/progress-95%25-yellowgreen" />
+<img src="https://img.shields.io/badge/%40-LTU-%231f73b7"/> <img src="https://img.shields.io/badge/major-CSE-%231f73b7" /> <img src="https://img.shields.io/badge/progress-100%25-green" />
 
 ## Professional Experience
 
