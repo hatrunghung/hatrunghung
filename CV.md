@@ -54,7 +54,6 @@ You can call me:
   - Collaborate with other team members to develop an Admin Panel for Operating Team to keep track and monitor activity on Giúp tôi! mobile application
 
 - Reference:
-  - <https://www.giuptoi.vn/>
   - <https://www.linkedin.com/company/giuptoi/>
 
 ## Projects
